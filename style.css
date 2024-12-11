@@ -50,6 +50,14 @@ section {
     text-align: center;
 }
 
+.text {
+    font-size: 16px;
+    color: rgb(223, 202, 238);
+    background-color: #10231c;
+    padding: 10px;
+    margin: 20px;
+}
+
 /* Example of adding a visual for a data-analytics type look */
 .infographics {
     margin-top: 20px;
