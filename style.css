@@ -69,6 +69,10 @@ section {
     max-width: 1200px;
 }
 
+#data {
+    color:aliceblue;
+    margin: 40px;
+}
 /* Optional: Adding a hover effect for links */
 a {
     color: #9a4fff;
