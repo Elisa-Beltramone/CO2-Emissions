@@ -69,6 +69,12 @@ section {
     max-width: 1200px;
 }
 
+iframe {
+    width: 100%;
+    max-width: 800px; /* Maximum width of the iframe */
+    height: 500px; /* Fixed height */
+  }
+
 #data {
     color:aliceblue;
     margin: 40px;
