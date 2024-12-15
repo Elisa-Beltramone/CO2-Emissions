@@ -89,3 +89,19 @@ a {
 a:hover {
     color: #ff6a88;
 }
+
+
+.cluster {
+    margin-bottom: 20px;
+    padding: 0 20%;
+}
+.cluster h2 {
+    color: #689752;
+}
+.cluster ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.cluster li {
+    padding: 5px;
+}
